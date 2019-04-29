@@ -1,0 +1,15 @@
+Package: jpMisc
+Type: Package
+Title: Useful function courtesy of Jean-Pierre Amoakon
+Version: 0.1.0
+Author: Jean-Pierre Amoakon <jamoakon@georgetowncollege.edu>
+Maintainer: Jean-Pierre Amoakon <jamoakon@georgetowncollege.edu>
+Description: Various functions that might be useful
+License: GPL (>+3)
+Encoding: UTF-8
+LazyData: true
+Imports:
+    ggplot2,
+    mosaicData,
+    plyr
+RoxygenNote: 6.1.1
