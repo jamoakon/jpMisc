@@ -2,5 +2,3 @@
 
 export(city_highs)
 import(ggplot2)
-importFrom(mosaicData,Weather)
-importFrom(plyr,mapvalues)
